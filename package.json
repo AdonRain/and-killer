@@ -1,0 +1,22 @@
+{
+  "name": "and-killer",
+  "version": "1.0.0",
+  "description": "a better way to get obj's prop without eggache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdonRain/and-killer.git"
+  },
+  "keywords": [
+    "eggache"
+  ],
+  "author": "AdonRain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdonRain/and-killer/issues"
+  },
+  "homepage": "https://github.com/AdonRain/and-killer#readme"
+}
