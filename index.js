@@ -10,7 +10,7 @@ function next(obj, arr) {
     if (!arr.length) {
         return obj;
     } else if (!obj[arr[0]]) {
-        return false;
+        return undefined;
     } else {
         obj = obj[arr[0]];
         arr.shift();
